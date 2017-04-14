@@ -1,2 +1,2 @@
 # wertachpark
-PSD to HTML5/CSS3/JS/JQuery + Responsive. 8 pages
+PSD to HTML5/CSS3/JS/JQuery + Responsive. Pixel Perfect. 8 pages.
